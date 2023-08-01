@@ -1,0 +1,65 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+    
+}
+
+table, th, td {
+    border:1px solid black;
+  }
+
+#title{
+    margin-bottom: 25px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 35px;
+
+}
+
+.navBtn{
+    background-color: rgb(15, 140, 223);
+    font-size: 20px;
+    width: 157.936667px;
+
+}
+
+.navBtn:hover{
+    background-color: white;
+    color: rgb(15, 140, 223);
+  }
+
+#navigation{
+    display: flex;
+
+}
+
+
+#customerForm{
+    background-color: antiquewhite;
+}
+
+.formElement {
+    margin-bottom: 15px;
+
+}
+
+#customerFormTitle{
+    margin-top: 20px;
+    width: 473.81px;
+    margin-left: 5px;
+}
+
+
+#itemForm{
+    background-color: antiquewhite;
+
+}
+
+#itemFormTitle{
+    margin-top: 20px;
+    width: 473.81px;
+    margin-left: 5px;
+
+}
